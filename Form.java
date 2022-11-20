@@ -68,7 +68,7 @@ public class Form extends javax.swing.JFrame {
         });
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 1, 36)); // NOI18N
-        jLabel2.setText("Study Plan");
+        jLabel2.setText("Scholarly");
 
         course6.setMinimumSize(new java.awt.Dimension(20, 50));
         course6.setPreferredSize(new java.awt.Dimension(100, 50));
